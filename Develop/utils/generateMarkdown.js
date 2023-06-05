@@ -34,7 +34,7 @@ if (license == 'None'){
 return ''
 }
 else {   
-return `This application is covered under the [(${license})]${renderLicenseLink(license)} license.`
+return `This application is covered under the [${license}]${renderLicenseLink(license)} license.`
 }
 
 }
@@ -70,9 +70,11 @@ function generateMarkdown(data) {
   ${data.tests}
   
   ## Questions 
-  ${data.email}
+  Any questions can be directed to my contact information below: 
 
-  ${data.github}
+  Email: ${data.email}
+
+  [Github](https://github.com/${data.github})
   
 
 `;

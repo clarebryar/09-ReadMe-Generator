@@ -1,4 +1,4 @@
-# test [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# test [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   ## Table of Contents
    - [Description](#Description)
    - [Installation](#Installation)
@@ -18,7 +18,7 @@
   
   ## License 
  
-  This application is covered under the [(MIT)](https://opensource.org/licenses/MIT) license.
+  This application is covered under the [Apache](https://opensource.org/licenses/Apache-2.0) license.
   
   ## Contributing 
   test
@@ -27,9 +27,11 @@
   test
   
   ## Questions 
-  test
+  Any questions can be directed to my contact information below: 
 
-  test
+  Email: test@gmail.com
+
+  [Github](https://github.com/testprofile)
   
 
 
