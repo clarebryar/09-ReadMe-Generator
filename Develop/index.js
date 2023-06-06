@@ -11,7 +11,7 @@ const questions = [
     }, 
     {
         type:'input',
-        message: 'Description',
+        message: 'Description:',
         name: 'description'
     }, 
     {
@@ -21,23 +21,23 @@ const questions = [
     },
     {
         type:'input',
-        message: 'Provide instructions or examples for use',
+        message: 'Provide instructions or examples for use:',
         name: 'usage'
     },
     {
         type:'list',
-        message: 'Select your license',
+        message: 'Select your license:',
         choices: ['MIT', 'Apache', 'Mozilla', 'None'],
         name: 'license'
     },
     {
         type:'input',
-        message: 'List any contributers, 3rd party assets, tutorials',
+        message: 'List any contributers, 3rd party assets, tutorials:',
         name: 'contributing'
     },
     {
         type:'input',
-        message: 'Tests for your application, and how to run them',
+        message: 'Tests for your application, and how to run them:',
         name: 'tests'
     },
     {

@@ -1,4 +1,4 @@
-# test [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# ReadMe Generator Project  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Table of Contents
    - [Description](#Description)
    - [Installation](#Installation)
@@ -8,30 +8,30 @@
    - [Tests](#Tests)
 
   ## Description 
-  test
+  This application creates a ReadMe file based on the users input. The user enters the information through a series of prompts in the command line, and the responses are converted to a ReadMe file in the Markdown format
    
   ## Installation 
-  test
+  This project can be run using nNodejs
   
   ## Usage 
-  test
+  The ReadMe generator can be use by running 'node index.js' in the terminal, and a series of questions will be presented to the user. The user can answer these questions t o fill out thier ReadMe . 
   
   ## License 
  
-  This application is covered under the [Apache](https://opensource.org/licenses/Apache-2.0) license.
+  This application is covered under the [MIT](https://opensource.org/licenses/MIT) license.
   
   ## Contributing 
-  test
+  n/a 
   
   ## Tests 
-  test
+  n/a 
   
   ## Questions 
   Any questions can be directed to my contact information below: 
 
-  Email: test@gmail.com
+  Email: clarebryar@gmail.com
 
-  [Github](https://github.com/testprofile)
+  [Github](https://github.com/clarebryar)
   
 
 
